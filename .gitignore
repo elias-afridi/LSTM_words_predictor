@@ -1,0 +1,42 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Model checkpoints (if you have multiple)
+checkpoints/
+*.ckpt
+*.pb
+
+# Data files (if you have any)
+data/
+*.csv
+*.json
+*.txt
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Cache files
+.cache/
+*.cache
