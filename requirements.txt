@@ -1,0 +1,5 @@
+pillow==9.5.0
+python-dotenv==1.0.0
+streamlit==1.28.1
+tensorflow==2.16.1
+numpy==1.26.0
