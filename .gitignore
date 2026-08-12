@@ -27,7 +27,6 @@ checkpoints/
 data/
 *.csv
 *.json
-*.txt
 *.log
 
 # OS files
